@@ -1,3 +1,4 @@
+![logo](https://github.com/ChirayuP19/ChirayuP19/blob/main/ChirayuLogo.png)
 <h1 align="center">Chirayu Patel</h1>
 <h3 align="center">Backend Engineer | Java • Spring Boot • REST APIs | Canada 🇨🇦</h3>
 

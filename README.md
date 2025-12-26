@@ -52,7 +52,7 @@ Passionate about clean architecture, performance optimization, and continuous le
 ### 🔹 GitHub Analytics
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=chirayup19&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=ChirayuP19&show_icons=true&locale=en"
     alt="GitHub Stats"
   />
 </p>

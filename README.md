@@ -1,68 +1,43 @@
-![logo](https://github.com/ChirayuP19/ChirayuP19/blob/main/ChirayuLogo.png)
-<h1 align="center">Chirayu Patel</h1>
-<h3 align="center">Backend Engineer | Java • Spring Boot • REST APIs | Canada 🇨🇦</h3>
+<div align="center">
+  <img src="https://github.com/ChirayuP19/ChirayuP19/blob/main/ChirayuLogo.png" width="120" />
+  <h1>Hi, I'm Chirayu Patel 👋</h1>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-green?style=for-the-badge">
+  <p><b>📍 Based in Canada 🇨🇦</b></p>
+</div>
 
-<br/>
+---
 
+### ⚡ Technical Expertise
+
+| Category | stack |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-005571?style=flat-square) |
+| **Security** | ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Infrastructure** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+
+---
+
+### 📊 GitHub Journey 
 <p align="center">
-  <img
-    src="https://miro.medium.com/1*lhOax3cZATGZwEhG0uTYRA.gif"
-    alt="Backend Development"
-    width="420"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChirayuP19&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&count_private=true" width="48%" alt="Chirayu's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChirayuP19&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&count_private=true" width="45%" alt="Chirayu's Top Languages" />
 </p>
 
 <p align="center">
-Backend-focused software engineer with strong hands-on experience in designing,
-developing, and maintaining scalable server-side applications. Proficient in
-Java, Spring Boot, RESTful API development, and relational database integration.
-Passionate about clean architecture, performance optimization, and continuous learning.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChirayuP19&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5" width="100%" alt="Chirayu's Streak" />
 </p>
 
 ---
 
-### 🔹 Professional Summary
-- 💼 Backend Engineer specializing in **Java & Spring Boot**
-- 🧠 Solid foundation in **OOP, MVC, REST, and layered architecture**
-- 🛠 Experience building **secure APIs, validations, and database-driven systems**
-- 🚀 Focused on **production-ready, scalable backend solutions**
-- 🌱 Currently expanding skills in **cloud and system design**
-
----
-
-### 🔹 Contact
-- 📫 **Email:** **chirayu010675@gmail.com**
-- 🌍 **Location:** Canada
-
----
-
-### 🔹 Technology Stack
+### 📫 Connect with me
 <p align="left">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="mailto:chirayu010675@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-### 🔹 GitHub Analytics
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ChirayuP19&show_icons=true&locale=en"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=chirayup19&layout=compact"
-    alt="Top Languages"
-  />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer&text=Keep%20Coding%20🚀&fontSize=40" width="100%"/>
+</div>
